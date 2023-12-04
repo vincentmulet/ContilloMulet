@@ -30,7 +30,7 @@ window.onload = function () {
       document.getElementById("puzzle").append(tile);
     }
   }
-};
+}
 
 function dragStart() {
   currentTile = this;
